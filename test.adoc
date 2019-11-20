@@ -1,1 +1,2 @@
-Hello this is an asciidoc test
+If you are planning to use {DBS_SHORT} or {CXS_SHORT} Targeting and Provisioning Services, best practice is to install an
+http://activemq.apache.org/download.html[ActiveMQ] instance.
